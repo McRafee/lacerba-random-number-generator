@@ -1,5 +1,5 @@
 {
-  "name": "random-number-generator",
+  "name": "lacerba-random-number-generator",
   "version": "1.0.0",
   "description": "A fullstack random generator project build for Lacerba",
   "main": "main.ts",
