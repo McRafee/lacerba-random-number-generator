@@ -36,7 +36,7 @@ const ruote = ['Bari','Cagliari','Firenze','Genova','Milano','Napoli','Palermo',
 const estrazioni : {[ruota : string]: number[] } = {};
 
 for (const ruota of ruote) {
-    const estrazione = RNGSequence(5,1,90);
+    const estrazione = RNGSequence(5,1,91);
     
     estrazioni[ruota] = estrazione;
 }
